@@ -5,7 +5,7 @@ Welcome to my profile</h1>
 
 <h3 align="center">Currently a student but passionate in programming</h3>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=nuje98&color=brightgreen" alt="watching_count" />
+<img align="center" src="https://komarev.com/ghpvc/?username=nuje98&color=brightgreen" alt="watching_count" />
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
 </p>
