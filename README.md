@@ -55,8 +55,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuje98&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuje98&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuje98&theme=dracula">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=nuje98&theme=onedark">
 </p>
 ------
 
