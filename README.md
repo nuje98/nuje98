@@ -1,5 +1,12 @@
-<h1 align="center">Hi, visitor, I'm Anuj.
-Welcome to my profile</h1>
+div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 <p align="center">
 <a href="http://anujjhamb.herokuapp.com/" target="blank"><img align="center" src="https://github.com/KasRoudra/kasweb/raw/main/assets/kas.png" alt="kaswebsite" height="100" width="100"></a></p>
 
